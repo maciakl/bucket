@@ -9,7 +9,7 @@ My bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
 After installing scoop:
 
-```pwsh
-scoop bucket add maciak https://github.com/maciakl/bucket
-scoop install maciak/appname
-```
+
+    scoop bucket add maciak https://github.com/maciakl/bucket
+    scoop install maciak/appname
+
