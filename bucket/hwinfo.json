@@ -1,0 +1,10 @@
+{
+
+    "version": "0.1.0",
+    "license": "freeware",
+    "description": "A simple windows command line tool that shows system information.",
+    "homepage": "https://github.com/maciakl/hwinfo",
+    "checkver": "github",
+    "url": "https://github.com/maciakl/hwinfo/releases/download/0.1.0/hwinfo.zip",
+    "bin": "hwinfo.exe"
+}
