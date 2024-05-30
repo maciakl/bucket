@@ -1,6 +1,6 @@
 {
 
-    "version": "0.1.20",
+    "version": "0.1.0",
     "description": "A simple command line tool that filters delimited text files on chosen values",
     "homepage": "https://github.com/maciakl/sieve",
     "checkver": "github",
