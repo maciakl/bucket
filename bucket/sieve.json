@@ -1,0 +1,10 @@
+{
+
+    "version": "0.1.20,
+    "description": "A simple command line tool that filters delimited text files on chosen values",
+    "homepage": "https://github.com/maciakl/sieve",
+    "checkver": "github",
+    "url": "https://github.com/maciakl/sieve/releases/download/v0.1.0/sieve_win.zip",
+    "bin": "sieve.exe",
+     "license": "freeware"
+}
