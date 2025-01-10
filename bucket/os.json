@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "description": "A new scoop package",
+    "description": "Cross platform CLI OS detectioj tool",
     "homepage": "https://github.com/maciakl/os",
     "checkver": "github",
     "url": "https://github.com/maciakl/os/releases/download/v0.1.0/os_win.zip",
