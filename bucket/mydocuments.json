@@ -4,7 +4,7 @@
     "homepage": "https://github.com/maciakl/mydocuments",
     "checkver": "github",
     "url": "https://github.com/maciakl/mydocuments/releases/download/0.1.1/mydocuments-0.1.1-win_x64.zip",
-    "hash": "695d388a714f57106d29d149c82fd88b8016f8c335fe4cd43c3443793f384a85",
+    "hash": "0c6eb66cf8dc1627b169eb2fff68bc921628f69f3e02a7dc3695603144df2241",
     "bin": "mydocuments.exe",
     "license": "freeware"
 }
