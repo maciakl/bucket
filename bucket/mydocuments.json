@@ -1,10 +1,10 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Prints out path to user's Documents folder",
     "homepage": "https://github.com/maciakl/mydocuments",
     "checkver": "github",
-    "url": "https://github.com/maciakl/mydocuments/releases/download/v0.1.1/mydocuments-0.1.1-win_x64.zip",
-    "hash": "0c6eb66cf8dc1627b169eb2fff68bc921628f69f3e02a7dc3695603144df2241",
+    "url": "https://github.com/maciakl/mydocuments/releases/download/v0.1.2/mydocuments-0.1.2-win_x64.zip",
+    "hash": "585cf6c15e545bfffd28a6e1ec33fed587d3fb04c5618372c43deffec369c5b7",
     "bin": "mydocuments.exe",
     "license": "freeware"
 }
