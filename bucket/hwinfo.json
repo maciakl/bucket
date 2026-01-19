@@ -6,6 +6,6 @@
     "homepage": "https://github.com/maciakl/hwinfo",
     "checkver": "github",
     "url": "https://github.com/maciakl/hwinfo/releases/download/v0.1.4/hwinfo.zip",
-    "hash": "44b099d5e3d0c25a18b870c6e1a1da9250d0809ac09cae32741e1e42038cb7a6",
+    "hash": "898abc2eedc97baf32e42e1837ed59b263e11ce7711a19c6d570a71aa8cee6b6",
     "bin": "hwinfo.exe"
 }
