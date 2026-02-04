@@ -1,0 +1,10 @@
+{
+    "version": "0.0.1",
+    "description": "CLI tool for colorizing stdout.",
+    "homepage": "https://github.com/maciakl/clrz",
+    "checkver": "github",
+    "url": "https://github.com/maciakl/clrz/releases/download/v0.1.0/clrz-0.1.0-win_x64.zip",
+    "hash": "2388f17e7ca5a47d9dc41cb525c625d08385c54894d444a729e7a363aa54b64b",
+    "bin": "clrz.exe",
+    "license": "freeware"
+}
