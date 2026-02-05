@@ -1,11 +1,11 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "license": "freeware",
     "description": "A simple command line tool for generating pass-phrases.",
     "homepage": "https://github.com/maciakl/dashphrase",
     "checkver": "github",
-    "url": "https://github.com/maciakl/dashphrase/releases/download/v0.1.2/dashphrase_0.1.2_Windows_x86_64.zip",
-    "hash": "7028f699f5e11d28b21def6f5f8eab309d613f2d959cd71555dcdaf5458cc674",
+    "url": "https://github.com/maciakl/dashphrase/releases/download/v0.1.3/dashphrase_0.1.3_Windows_x86_64.zip",
+    "hash": "0f51c8635458b9d42e3c025436449a2557d33378062d09cb3e2948437514dddb",
     "bin": "dashphrase.exe"
 
 }
