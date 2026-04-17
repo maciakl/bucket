@@ -1,0 +1,10 @@
+{
+    "version": "0.1.0",
+    "description": "A simple text file splitter.",
+    "homepage": "https://github.com/maciakl/cutter",
+    "checkver": "github",
+    "url": "https://github.com/maciakl/cutter/releases/download/v0.1.0/cutter_0.1.0_Windows_x86_64.zip",
+    "hash": "c58e7c28a9897f7f89ff29ee573fe3a1cc5219507e881e6a3d04891537d6477",
+    "bin": "cutter.exe",
+    "license": "freeware"
+}
