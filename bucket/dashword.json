@@ -5,7 +5,7 @@
     "homepage": "https://github.com/maciakl/dashword",
     "checkver": "github",
     "url": "https://github.com/maciakl/dashword/releases/download/v0.1.4/dashword-Windows_x86_64.zip",
-    "hash": "4D797C8A0D9E8E42AF2054D89FA44753FC75E9D49AF84F7D87B2068638102A85",
+    "hash": "c8258fcb5b4f6fdeff9438e0c0b098e397a18086abd3157891f529aa1cd8bcb7",
     "bin": "dashword.exe"
 
 }
