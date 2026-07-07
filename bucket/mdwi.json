@@ -1,10 +1,10 @@
 {
-    "version": "0.4.4",
+    "version": "0.4.5",
     "description": "A static markdown wiki generator",
     "homepage": "https://github.com/maciakl/mdwi",
     "checkver": "github",
-    "url": "https://github.com/maciakl/mdwi/releases/download/v0.4.4/mdwi_0.4.4_Windows_x86_64.zip",
-    "hash": "326ff65e99a4ab112e9d65a85d81c1cc7c71b0e1eda2eddfd7cc5ea18ce76ff5",
+    "url": "https://github.com/maciakl/mdwi/releases/download/v0.4.5/mdwi_0.4.5_Windows_x86_64.zip",
+    "hash": "f9b9133d39b2f6c6808477dac628f59cee2f9c5086172adfc73bc6b39b57037d",
     "bin": "mdwi.exe",
     "license": "freeware"
 }
